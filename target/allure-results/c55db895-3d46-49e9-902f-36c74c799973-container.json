@@ -1,0 +1,1 @@
+{"uuid":"c55db895-3d46-49e9-902f-36c74c799973","name":"tests.PatientResourceTests","children":["e5b8059d-dd9b-4319-ba06-3c83dec44615"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1647186158518,"stop":1647186159362}],"afters":[],"start":1647186158465,"stop":1647186161461}
