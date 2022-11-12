@@ -116,6 +116,19 @@ public class PatientResourceTests {
     }
 
 
+    @Test(description = "delete patient data by id and verify it's deleted")
+    @Description("delete patient data by id and verify it's deleted")
+    @Story("Patient CRUDs")
+    @Severity(SeverityLevel.CRITICAL)
+    @TmsLink("Test_case")
+    @Issue("Software_bug")
+    public void testadded() {
+
+
+        patientResource.deletePatient("2837265");
+    }
+
+
 
 
 }
